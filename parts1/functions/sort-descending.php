@@ -17,11 +17,11 @@
         for ( $i = 1; $i < count($array); $i++ ) {
 
             if( $array[$i] <= $item ) {
-                array_push($lessItem, $array[$i]);
+                $lessItem[] = $array[$i];
             } 
 
             if( $array[$i] > $item ) {
-                array_push($moreItem, $array[$i]);
+                $moreItem[] = $array[$i];
             } 
 
         }

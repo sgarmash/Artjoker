@@ -16,11 +16,11 @@
         for ( $i = 1, $count = count($array) ; $i < $count; $i++ ) {
 
             if( $array[$i] <= $item ) {
-                array_push($lessItem, $array[$i]);
+                $lessItem[] = $array[$i];
             } 
 
             if( $array[$i] > $item ) {
-                array_push($moreItem, $array[$i]);
+                $moreItem[] = $array[$i];
             } 
 
         }

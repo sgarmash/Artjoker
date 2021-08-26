@@ -64,13 +64,13 @@
                     break;
                 } 
                 if($matrix[$j][$i] === 0) {
-                    array_push($exception, $i);
+                    $exception[] = $i;
                 } 
                 $sum += $matrix[$j][$i];
             };
 
             if($sum > 0 && !in_array($i, $exception)) {
-                array_push($exception, $i);
+                $exception[] = $i;
             }
 
         }
