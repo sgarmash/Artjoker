@@ -11,14 +11,6 @@
         [1, 0, 6, 1],
         [0, 2, -46, 4]
     ];
-
-    /*
-
-        The result of the function 
-        will be an array of negative 
-        numbers
-    
-    */
     
     function filterMatrix( $array ){
         $result = [];
@@ -39,13 +31,6 @@
         $array = $result;
         return $array;
     }
-
-    /*
-        The result of the 
-        function will lead to 
-        negative numbers
-    */
-    
     function removeColumn ( &$matrix, &$exception, &$count ) {
         for( $i = 0, $countException = count($exception); $i < $countException; $i++ ) {
             for($j = 0; $j < $count; $j++) {
