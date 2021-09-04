@@ -36,9 +36,9 @@
         return $counter;
     }
 
-    function is_prime( $n ) {
-        for( $x = 2; $x < $n; $x++ ){
-            if( $n % $x == 0 ) {
+    function is_prime( $number ) {
+        for( $i = 2; $i < $number; $i++ ){
+            if( $number % $i == 0 ) {
                 return true;
             }
         }
