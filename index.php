@@ -9,7 +9,7 @@
 <body> 
 
    <?php 
-        require_once('parts1/functions/to-degree.php'); 
+        require_once('parts2/Figure.php'); 
     ?>
 
 </body>

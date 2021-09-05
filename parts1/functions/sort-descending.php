@@ -2,7 +2,7 @@
 
     $arr = range(1, 10);
 
-    shuffle($arr);
+    shuffle( $arr );
 
     function sortDescending ( array $array ) {
 
