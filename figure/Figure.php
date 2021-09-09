@@ -61,7 +61,6 @@
         public function perimeter () 
         {
             return 3 * $this->width;
-
         }
         
         public function area()
@@ -70,4 +69,7 @@
         }
 
     }
+
+    $shape = new Rectangle(10, 10);
+    print_r($shape->area());
     
