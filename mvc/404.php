@@ -6,11 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
-<body> 
-
-   <?php 
-        require_once('figure/Figure.php'); 
-    ?>
-
+<body>
+    <p>  This is 404 pge  </p>
 </body>
 </html>
