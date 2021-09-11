@@ -1,0 +1,48 @@
+Fatal Error Uncaught Error: Call to undefined function f() in C:\OSWork\OpenServer\domains\Logger\index.php:12
+Stack trace:
+#0 {main}
+  thrown C:\OSWork\OpenServer\domains\Logger\index.php 12
+Fatal Error Uncaught Error: Call to undefined function f() in C:\OSWork\OpenServer\domains\Logger\index.php:12
+Stack trace:
+#0 {main}
+  thrown C:\OSWork\OpenServer\domains\Logger\index.php 12
+Fatal Error Uncaught Error: Call to undefined function f() in C:\OSWork\OpenServer\domains\Logger\index.php:12
+Stack trace:
+#0 {main}
+  thrown C:\OSWork\OpenServer\domains\Logger\index.php 12
+Fatal Error Uncaught ArgumentCountError: Too few arguments to function App\Logger::warn(), 0 passed in C:\OSWork\OpenServer\domains\Logger\Logger.php on line 13 and exactly 4 expected in C:\OSWork\OpenServer\domains\Logger\App\Logger.php:41
+Stack trace:
+#0 C:\OSWork\OpenServer\domains\Logger\Logger.php(13): App\Logger->warn()
+#1 C:\OSWork\OpenServer\domains\Logger\index.php(11): require_once('C:\\OSWork\\OpenS...')
+#2 {main}
+  thrown C:\OSWork\OpenServer\domains\Logger\App\Logger.php 41
+Fatal Error Uncaught ArgumentCountError: Too few arguments to function App\Logger::warn(), 0 passed in C:\OSWork\OpenServer\domains\Logger\Logger.php on line 13 and exactly 2 expected in C:\OSWork\OpenServer\domains\Logger\App\Logger.php:41
+Stack trace:
+#0 C:\OSWork\OpenServer\domains\Logger\Logger.php(13): App\Logger->warn()
+#1 C:\OSWork\OpenServer\domains\Logger\index.php(11): require_once('C:\\OSWork\\OpenS...')
+#2 {main}
+  thrown C:\OSWork\OpenServer\domains\Logger\App\Logger.php 41
+Fatal Error Uncaught ArgumentCountError: Too few arguments to function App\Logger::warn(), 0 passed in C:\OSWork\OpenServer\domains\Logger\Logger.php on line 13 and exactly 2 expected in C:\OSWork\OpenServer\domains\Logger\App\Logger.php:41
+Stack trace:
+#0 C:\OSWork\OpenServer\domains\Logger\Logger.php(13): App\Logger->warn()
+#1 C:\OSWork\OpenServer\domains\Logger\index.php(11): require_once('C:\\OSWork\\OpenS...')
+#2 {main}
+  thrown C:\OSWork\OpenServer\domains\Logger\App\Logger.php 41
+Fatal Error Uncaught ArgumentCountError: Too few arguments to function App\Logger::warn(), 0 passed in C:\OSWork\OpenServer\domains\Logger\Logger.php on line 13 and exactly 2 expected in C:\OSWork\OpenServer\domains\Logger\App\Logger.php:41
+Stack trace:
+#0 C:\OSWork\OpenServer\domains\Logger\Logger.php(13): App\Logger->warn()
+#1 C:\OSWork\OpenServer\domains\Logger\index.php(11): require_once('C:\\OSWork\\OpenS...')
+#2 {main}
+  thrown C:\OSWork\OpenServer\domains\Logger\App\Logger.php 41
+Fatal Error Uncaught ArgumentCountError: Too few arguments to function App\Logger::warn(), 0 passed in C:\OSWork\OpenServer\domains\Logger\Logger.php on line 13 and exactly 2 expected in C:\OSWork\OpenServer\domains\Logger\App\Logger.php:41
+Stack trace:
+#0 C:\OSWork\OpenServer\domains\Logger\Logger.php(13): App\Logger->warn()
+#1 C:\OSWork\OpenServer\domains\Logger\index.php(11): require_once('C:\\OSWork\\OpenS...')
+#2 {main}
+  thrown C:\OSWork\OpenServer\domains\Logger\App\Logger.php 41
+Fatal Error Uncaught ArgumentCountError: Too few arguments to function App\Logger::warn(), 0 passed in C:\OSWork\OpenServer\domains\Logger\Logger.php on line 13 and exactly 2 expected in C:\OSWork\OpenServer\domains\Logger\App\Logger.php:41
+Stack trace:
+#0 C:\OSWork\OpenServer\domains\Logger\Logger.php(13): App\Logger->warn()
+#1 C:\OSWork\OpenServer\domains\Logger\index.php(11): require_once('C:\\OSWork\\OpenS...')
+#2 {main}
+  thrown C:\OSWork\OpenServer\domains\Logger\App\Logger.php 41

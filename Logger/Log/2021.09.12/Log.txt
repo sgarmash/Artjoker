@@ -1,0 +1,5 @@
+02:03:34: WARN. Division by zero: in C:\OSWork\OpenServer\domains\Logger\index.php, in 13
+02:03:36: WARN. Division by zero: in C:\OSWork\OpenServer\domains\Logger\index.php, in 13
+02:03:37: WARN. Division by zero: in C:\OSWork\OpenServer\domains\Logger\index.php, in 13
+02:03:53: WARN. Division by zero: in C:\OSWork\OpenServer\domains\Logger\index.php, in 13
+02:03:54: WARN. Division by zero: in C:\OSWork\OpenServer\domains\Logger\index.php, in 13
